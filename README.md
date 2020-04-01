@@ -5,8 +5,9 @@ The application generates a random string of text that you need to type in a spe
 
 ## Technologies
 
-Angular
-Git
-Bulma
+Angular,
+Git,
+Bulma,
+Faker
 
 ## Link for testing app
