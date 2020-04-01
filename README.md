@@ -12,3 +12,5 @@ The application generates a random string of text that you need to type in a spe
 - [Faker](https://www.npmjs.com/package/faker).
 
 ## Link for testing app
+
+https://typing-nu.now.sh/
