@@ -9,6 +9,6 @@ The application generates a random string of text that you need to type in a spe
 - Angular,
 - Git,
 - [Bulma](https://bulma.io/),
-- [Faker](https://www.npmjs.com/package/faker)
+- [Faker](https://www.npmjs.com/package/faker).
 
 ## Link for testing app
